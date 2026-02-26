@@ -56,8 +56,8 @@ Future Improvements
 •	Gradient boosting models
 •	Production deployment pipeline
 •	Integration with BI dashboards
-________________________________________
-🛠 Tech Stack
+
+Tech Stack
 •	Python
 •	Pandas / NumPy
 •	Scikit-learn
